@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Typical setup for Playwright end to end testing",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "npx playwright test --ui"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/VitaliiKhmelko/playwright-seed.git"

@@ -1,0 +1,22 @@
+{
+  "name": "playwright-seed",
+  "version": "1.0.0",
+  "description": "Typical setup for Playwright end to end testing",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitaliiKhmelko/playwright-seed.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitaliiKhmelko/playwright-seed/issues"
+  },
+  "homepage": "https://github.com/VitaliiKhmelko/playwright-seed#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.14.1"
+  }
+}

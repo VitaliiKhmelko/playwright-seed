@@ -2,6 +2,10 @@
 
 Typical setup for Playwright end to end testing
 
+# Supported features
+
+* Run on github using github actions
+
 # Local testing in UI code
 
 * run `npm ci`
